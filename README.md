@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @diwakarns
 - 👀 I’m interested in software Development
-- 🌱 I’m currently doing job at SAMSUNG DIPSLAY NOIDA AS ASSISTANT ENGINEER. - 💞️ I’m looking to collaborate on .
+- 🌱 I’m currently doing job at SAMSUNG DIPSLAY NOIDA AS ASSISTANT ENGINEER.
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me 
 
 <!---
